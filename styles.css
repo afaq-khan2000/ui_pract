@@ -1,0 +1,43 @@
+.header {
+  background-image: url("./resources/main_7.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+}
+
+.ml-5per {
+  margin-left: 5%;
+}
+
+.ml-10per {
+  margin-left: 10%;
+}
+
+.mr-10per {
+  margin-right: 10%;
+}
+
+.pl-10per {
+  padding-left: 10%;
+}
+
+.btn-outline {
+  border: 2px solid black;
+  color: #bbb;
+  padding: 14px 28px;
+  font-size: 16px;
+  border-color: #bbb;
+}
+
+.title-btn{
+  height: 50px;
+  border: none;
+  border-radius: 0%;
+}
+
+.divider{
+  width: 80%;
+  height: 1px;
+  margin-left: 10%;
+  background-color: #bbb;
+}
