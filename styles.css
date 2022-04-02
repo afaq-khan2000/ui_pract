@@ -1,3 +1,7 @@
+.bg-gray {
+  background-color: #f3f4f9;
+}
+
 .header {
   background-image: url("./resources/main_7.jpg");
   background-repeat: no-repeat;
@@ -11,6 +15,10 @@
 
 .ml-10per {
   margin-left: 10%;
+}
+
+.mt-10per {
+  margin-top: 10%;
 }
 
 .mr-10per {
@@ -29,15 +37,37 @@
   border-color: #bbb;
 }
 
-.title-btn{
+.title-btn {
   height: 50px;
   border: none;
   border-radius: 0%;
 }
 
-.divider{
+.divider {
   width: 80%;
   height: 1px;
   margin-left: 10%;
   background-color: #bbb;
+}
+
+ /* .show {
+  display: block;
+}  */
+
+.hide {
+  display: none;
+}
+
+.details-btn{
+  border-radius: 0%;
+  height: 60px;
+  background-color: #e9e9f1;
+  border-color: #e9e9f1;
+  color: black;
+}
+
+.details-btn:hover{
+  background-color: #fff;
+  border-color: #fff;
+  color: #000;
 }
